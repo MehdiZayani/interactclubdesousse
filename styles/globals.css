@@ -1,0 +1,8 @@
+body,html{
+  margin: 0;
+  padding: 0;
+  background-color: #212969;
+  overflow-x: hidden;
+  font-family: "Catamaran", Sans-serif;
+  text-decoration: none;
+}
